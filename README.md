@@ -54,4 +54,4 @@ Dashboard designed for hotel employees to efficiently manage bookings, cabins, a
 For initial access, use the following credentials:
 
 - **Email**: test@test.com
-- **Password**: test123
+- **Password**: test1234
